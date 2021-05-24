@@ -1,4 +1,5 @@
-<#pragma once
+'''C
+	#pragma once
 #include <string>
 using namespace std;
 #include"student.h"
@@ -46,4 +47,5 @@ private:
 	Node* head;
 	Node* tail;
 	int length;
-};>
+};
+'''
