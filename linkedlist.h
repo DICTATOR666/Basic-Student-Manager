@@ -1,5 +1,4 @@
-'''C
-	#pragma once
+#pragma once
 #include <string>
 using namespace std;
 #include"student.h"
@@ -48,4 +47,3 @@ private:
 	Node* tail;
 	int length;
 };
-'''
